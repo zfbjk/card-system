@@ -153,7 +153,3 @@ php artisan reset:password admin@qq.com 123456
 </svg>
     </clipboard-copy>
   </div></div>
-
-              </div>
-
-          </div>
