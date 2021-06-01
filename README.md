@@ -1,3 +1,6 @@
+ <li>我们为所有 http://www.zfbjk.com 的付费用户提供一次免费的程序安装服务，如果您不会安装可以联系我们。</li>
+<li>免费的程序安装服务由ZFBJK支付宝免签约即时到账辅助官方提供，与Tai7sy无关，请联系ZFBJK客服获取帮助。</li>
+<li>我们的联系QQ：40386277，E-mail：support@zfbjk.com</li>
 <h1 align="center">CardSystem</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/version-3.13-blue.svg?style=flat-square" alt="License">
