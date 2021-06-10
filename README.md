@@ -35,12 +35,12 @@
 <h2>
 <a id="user-content-下载网站源码" class="anchor" href="#%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>下载网站源码</h2>
 <div class="snippet-clipboard-content position-relative"><pre><code>cd /www/wwwroot/demo.anfaka.com  #进入网站目录
-curl -L -o card_release.tar.gz https://github.com/Tai7sy/card-system/releases/download/3.0/card_release.tar.gz &amp;&amp; tar -zxf card_release.tar.gz &amp;&amp; \cp -rf card_system_free_dist/. . &amp;&amp; rm -rf card_system_free_dist card_release.tar.gz
+curl -L -o master.zip https://github.com/zfbjk/card-system/archive/refs/heads/master.zip && unzip master.zip && \cp -rf card-system-master/. . && rm -rf card-system-master master.zip
 chmod -R 777 storage/
 chmod -R 777 bootstrap/cache/
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd /www/wwwroot/demo.anfaka.com  #进入网站目录
-curl -L -o card_release.tar.gz https://github.com/Tai7sy/card-system/releases/download/3.0/card_release.tar.gz &amp;&amp; tar -zxf card_release.tar.gz &amp;&amp; \cp -rf card_system_free_dist/. . &amp;&amp; rm -rf card_system_free_dist card_release.tar.gz
+curl -L -o master.zip https://github.com/zfbjk/card-system/archive/refs/heads/master.zip &amp;&amp; unzip master.zip &amp;&amp; \cp -rf card-system-master/. . &amp;&amp; rm -rf card-system-master master.zip
 chmod -R 777 storage/
 chmod -R 777 bootstrap/cache/
 " tabindex="0" role="button">
